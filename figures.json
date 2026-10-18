@@ -1,0 +1,466 @@
+[
+ {
+  "chapter": "Getting started with Julia",
+  "file": "fig2.svg",
+  "caption": "Example Thematic Map",
+  "slug": "fig2",
+  "w": 1800,
+  "h": 1050
+ },
+ {
+  "chapter": "Getting started with Julia",
+  "file": "fig3.png",
+  "caption": "Julia REPL",
+  "slug": "fig3",
+  "w": 1800,
+  "h": 548
+ },
+ {
+  "chapter": "Bringing in data",
+  "file": "fig4.png",
+  "caption": "Example of an Overdecorated Spreadsheet",
+  "slug": "fig4",
+  "w": 1790,
+  "h": 1784
+ },
+ {
+  "chapter": "Geometry plus data makes spatial data",
+  "file": "fig5.svg",
+  "caption": "Map of US Population Taking Default Colors",
+  "slug": "fig5",
+  "w": 1800,
+  "h": 900
+ },
+ {
+  "chapter": "Basic Plotting",
+  "file": "fig6.svg",
+  "caption": "Typical Plot Accepting All the Defaults of a TIGER Shapefile",
+  "slug": "fig6",
+  "w": 1800,
+  "h": 900
+ },
+ {
+  "chapter": "Basic Plotting",
+  "file": "fig7.svg",
+  "caption": "Some of the Far-flung Geographies",
+  "slug": "fig7",
+  "w": 1800,
+  "h": 1345
+ },
+ {
+  "chapter": "Basic Plotting",
+  "file": "fig8.svg",
+  "caption": "Contiguous US",
+  "slug": "fig8",
+  "w": 1800,
+  "h": 900
+ },
+ {
+  "chapter": "Basic Plotting",
+  "file": "fig9.svg",
+  "caption": "Contiguous US Without Graticule",
+  "slug": "fig9",
+  "w": 1800,
+  "h": 900
+ },
+ {
+  "chapter": "Basic Plotting",
+  "file": "fig10.svg",
+  "caption": "Contiguous US with Albers Equal Area Projection",
+  "slug": "fig10",
+  "w": 1800,
+  "h": 900
+ },
+ {
+  "chapter": "Colors",
+  "file": "fig13.svg",
+  "caption": "Pink Named Colors",
+  "slug": "fig13",
+  "w": 1800,
+  "h": 1013
+ },
+ {
+  "chapter": "Colors",
+  "file": "fig14.svg",
+  "caption": "Sequential Color Palette Example",
+  "slug": "fig14",
+  "w": 1800,
+  "h": 900
+ },
+ {
+  "chapter": "Layout",
+  "file": "fig11.svg",
+  "caption": "Layout Elements",
+  "slug": "fig11",
+  "w": 1800,
+  "h": 1125
+ },
+ {
+  "chapter": "Layout",
+  "file": "fig12.svg",
+  "caption": "Data Layer",
+  "slug": "fig12",
+  "w": 1800,
+  "h": 1158
+ },
+ {
+  "chapter": "Colors",
+  "file": "fig15.svg",
+  "caption": "Diverging Color Palette Example of Water Area by State",
+  "slug": "fig15",
+  "w": 1800,
+  "h": 900
+ },
+ {
+  "chapter": "Colors",
+  "file": "fig16.svg",
+  "caption": "Qualitative Color Palette Example of Water Area by State",
+  "slug": "fig16",
+  "w": 1800,
+  "h": 900
+ },
+ {
+  "chapter": "Colors",
+  "file": "fig17.svg",
+  "caption": "Some ColorSchemes",
+  "slug": "fig17",
+  "w": 1800,
+  "h": 1350
+ },
+ {
+  "chapter": "Colors",
+  "file": "fig18.svg",
+  "caption": "Blues_5, Reds_5 and Greens_5 ColorBrewer Palettes",
+  "slug": "fig18",
+  "w": 1800,
+  "h": 1350
+ },
+ {
+  "chapter": "Counts data",
+  "file": "fig19.svg",
+  "caption": "Population and Death Counts, GDP and Deportations",
+  "slug": "fig19",
+  "w": 1800,
+  "h": 1158
+ },
+ {
+  "chapter": "Counts data",
+  "file": "fig20.svg",
+  "caption": "Death Counts Compared to Death Rates",
+  "slug": "fig20",
+  "w": 1800,
+  "h": 1158
+ },
+ {
+  "chapter": "Counts data",
+  "file": "fig21.svg",
+  "caption": "Raw Population at County Scale",
+  "slug": "fig21",
+  "w": 1800,
+  "h": 1158
+ },
+ {
+  "chapter": "Counts data",
+  "file": "fig22.svg",
+  "caption": "Logarithmic Transformation of Population",
+  "slug": "fig22",
+  "w": 1800,
+  "h": 1158
+ },
+ {
+  "chapter": "Counts data",
+  "file": "fig23.svg",
+  "caption": "Population Histogram of 2023 Estimated US Population",
+  "slug": "fig23",
+  "w": 1800,
+  "h": 1350
+ },
+ {
+  "chapter": "Counts data",
+  "file": "fig24.svg",
+  "caption": "Application of Four Binning Algorithms",
+  "slug": "fig24",
+  "w": 1800,
+  "h": 1158
+ },
+ {
+  "chapter": "Counts data",
+  "file": "fig25.svg",
+  "caption": "Sizes of Counties under 10,000 Population",
+  "slug": "fig25",
+  "w": 1800,
+  "h": 1350
+ },
+ {
+  "chapter": "Counts data",
+  "file": "fig26.svg",
+  "caption": "Small Counties with Equal Interval Coloring",
+  "slug": "fig26",
+  "w": 1800,
+  "h": 600
+ },
+ {
+  "chapter": "Counts data",
+  "file": "fig27.svg",
+  "caption": "Distributions of Small County Margins",
+  "slug": "fig27",
+  "w": 1800,
+  "h": 1350
+ },
+ {
+  "chapter": "Counts data",
+  "file": "fig28.svg",
+  "caption": "Small Counties with Quantile Coloring",
+  "slug": "fig28",
+  "w": 1800,
+  "h": 1158
+ },
+ {
+  "chapter": "Counts data",
+  "file": "fig29.svg",
+  "caption": "Small Counties with Fisher-Jenks Coloring",
+  "slug": "fig29",
+  "w": 1800,
+  "h": 1158
+ },
+ {
+  "chapter": "When color is not an option",
+  "file": "fig30.svg",
+  "caption": "Shades of Gray",
+  "slug": "fig30",
+  "w": 1800,
+  "h": 1350
+ },
+ {
+  "chapter": "When color is not an option",
+  "file": "fig31.svg",
+  "caption": "Patterned Map",
+  "slug": "fig31",
+  "w": 1800,
+  "h": 1350
+ },
+ {
+  "chapter": "Insets and outsets",
+  "file": "fig32.svg",
+  "caption": "Alaska and Hawaii Insets",
+  "slug": "fig32",
+  "w": 1800,
+  "h": 1286
+ },
+ {
+  "chapter": "Insets and outsets",
+  "file": "fig33.svg",
+  "caption": "Use of Regional Map to Show Detail",
+  "slug": "fig33",
+  "w": 1800,
+  "h": 900
+ },
+ {
+  "chapter": "Insets and outsets",
+  "file": "fig34.png",
+  "caption": "Finished in Vector Editor Application",
+  "slug": "fig34",
+  "w": 1800,
+  "h": 1849
+ },
+ {
+  "chapter": "Putting it all together",
+  "file": "fig35.svg",
+  "caption": "Plot with Optional Elements",
+  "slug": "fig35",
+  "w": 1800,
+  "h": 1013
+ },
+ {
+  "chapter": "Radius maps",
+  "file": "fig36.svg",
+  "caption": "Example of a Radius Map",
+  "slug": "fig36",
+  "w": 1800,
+  "h": 1200
+ },
+ {
+  "chapter": "Network data",
+  "file": "fig37.svg",
+  "caption": "Undirected Graph Map Example",
+  "slug": "fig37",
+  "w": 1800,
+  "h": 1440
+ },
+ {
+  "chapter": "Network data",
+  "file": "fig38.svg",
+  "caption": "Flow Map Example",
+  "slug": "fig38",
+  "w": 1800,
+  "h": 1200
+ },
+ {
+  "chapter": "Network data",
+  "file": "fig39.svg",
+  "caption": "Betweenness and Centrality",
+  "slug": "fig39",
+  "w": 1800,
+  "h": 1800
+ },
+ {
+  "chapter": "Network data",
+  "file": "fig40.svg",
+  "caption": "Regional Clustering",
+  "slug": "fig40",
+  "w": 1800,
+  "h": 900
+ },
+ {
+  "chapter": "Bivariate maps",
+  "file": "fig41.svg",
+  "caption": "Linear Regression Model of Ohio Election",
+  "slug": "fig41",
+  "w": 1800,
+  "h": 1350
+ },
+ {
+  "chapter": "Bivariate maps",
+  "file": "fig42.svg",
+  "caption": "Density Plot of Ohio Election",
+  "slug": "fig42",
+  "w": 1800,
+  "h": 1350
+ },
+ {
+  "chapter": "Bivariate maps",
+  "file": "fig43.svg",
+  "caption": "Bivariate Map Example",
+  "slug": "fig43",
+  "w": 1800,
+  "h": 1200
+ },
+ {
+  "chapter": "Dot density maps",
+  "file": "fig44.svg",
+  "caption": "Dot Density Map Example",
+  "slug": "fig44",
+  "w": 1800,
+  "h": 1286
+ },
+ {
+  "chapter": "Geo-referenced rasters",
+  "file": "fig45.png",
+  "caption": "Shaded Relief Map",
+  "slug": "fig45",
+  "w": 1800,
+  "h": 1200
+ },
+ {
+  "chapter": "Geo-referenced rasters",
+  "file": "fig46.png",
+  "caption": "Contiguous US at Night",
+  "slug": "fig46",
+  "w": 1800,
+  "h": 1201
+ },
+ {
+  "chapter": "Geo-referenced rasters",
+  "file": "fig47.png",
+  "caption": "Example of a Geo-referenced Raster Background",
+  "slug": "fig47",
+  "w": 1800,
+  "h": 1957
+ },
+ {
+  "chapter": "Catchment areas",
+  "file": "fig48.svg",
+  "caption": "Example of Voronoi Plot",
+  "slug": "fig48",
+  "w": 1800,
+  "h": 1013
+ },
+ {
+  "chapter": "Cartograms",
+  "file": "fig49.svg",
+  "caption": "Bubble Chart",
+  "slug": "fig49",
+  "w": 1800,
+  "h": 1158
+ },
+ {
+  "chapter": "Cartograms",
+  "file": "fig50.svg",
+  "caption": "Example of a Bin Plot Cartogram",
+  "slug": "fig50",
+  "w": 1800,
+  "h": 1350
+ },
+ {
+  "chapter": "Cartograms",
+  "file": "fig51.svg",
+  "caption": "Symbolic Cartogram Example",
+  "slug": "fig51",
+  "w": 1800,
+  "h": 900
+ },
+ {
+  "chapter": "Small multiples",
+  "file": "fig52.svg",
+  "caption": "Small Multiples Map Illustration",
+  "slug": "fig52",
+  "w": 1800,
+  "h": 1600
+ },
+ {
+  "chapter": "Spatial reasoning",
+  "file": "fig53.jpg",
+  "caption": "John Snow's Map of the Golden Square Cholera Outbreak",
+  "slug": "fig53",
+  "w": 1800,
+  "h": 1918
+ },
+ {
+  "chapter": "Spatial reasoning",
+  "file": "fig54.png",
+  "caption": "Stylizyed Map of Cholora Deaths",
+  "slug": "fig54",
+  "w": 1800,
+  "h": 1350
+ },
+ {
+  "chapter": "Spatial reasoning",
+  "file": "fig55.png",
+  "caption": "Time Series of the Outbreak",
+  "slug": "fig55",
+  "w": 1800,
+  "h": 1080
+ },
+ {
+  "chapter": "Spatial reasoning",
+  "file": "fig56.png",
+  "caption": "Heatmap of Simulated Distribution of First 70 Cases",
+  "slug": "fig56",
+  "w": 1800,
+  "h": 1391
+ },
+ {
+  "chapter": "Spatial reasoning",
+  "file": "fig57.png",
+  "caption": "Permutation Test Result",
+  "slug": "fig57",
+  "w": 1800,
+  "h": 1350
+ },
+ {
+  "chapter": "Spatial reasoning",
+  "file": "fig58.png",
+  "caption": "Permutation Analysis",
+  "slug": "fig58",
+  "w": 1800,
+  "h": 600
+ },
+ {
+  "chapter": "Spatial reasoning",
+  "file": "fig59.png",
+  "caption": "Density Surface",
+  "slug": "fig59",
+  "w": 1800,
+  "h": 1440
+ }
+]
