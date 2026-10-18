@@ -377,6 +377,14 @@
  },
  {
   "chapter": "Cartograms",
+  "file": "bubble_chart.png",
+  "caption": "Bubble Chart",
+  "slug": "bubble_chart",
+  "w": 1800,
+  "h": 1157
+ },
+ {
+  "chapter": "Cartograms",
   "file": "fig49.svg",
   "caption": "Bubble Chart",
   "slug": "fig49",
